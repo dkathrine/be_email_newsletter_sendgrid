@@ -1,0 +1,3 @@
+1. Erstelle eine Route für die Benutzerregistrierung und verwende alles, was wir bisher gelernt haben: Hashing, Salting usw... Verwende SendGrid, um eine Willkommens E-Mail an neue Benutzer mit Text und HTML zu senden.
+
+2. Erstelle eine neue Route für den Newsletter, wenn der Benutzer das Formular ausfüllt und absendet, erhält er/sie eine E-Mail-Vorlage von sendgrid. Verwende die Vorlagen von sendgrid, um ihnen eine interessante E-Mail zu schicken, sei kreativ
